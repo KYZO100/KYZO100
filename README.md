@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KYZO100&label=Profile%20views&color=0e75b6&style=flat" alt="KYZO" /> </p>
 
 
-- 🔭 I’m currently working on [FLIXMIX](flixmix.vercel.app)
+- 🔭 I’m currently working on [FLIXMIX](  flixmix.vercel.app  )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
