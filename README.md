@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm KYZO</h1>
-<h3 align="center">💻 Frontend Developer from Morocco | Passionate about Web & UI/UX</h3>
+<h1 align="center">Yo 👋, I'm KYZO</h1>
+<h3 align="center">Frontend Developer • Coffee Addict • Professional Bug Creator</h3>
 
 ---
 
@@ -11,32 +11,32 @@
 
 ---
 
-### 🚀 About Me  
-- 🔭 Currently working on **[FLIXMIX](https://flixmix.vercel.app)**  
-- 🌱 Learning & exploring **Next.js | TypeScript | Advanced UI**  
-- 🎯 Goal: Building scalable, user-friendly web apps  
-- ⚡ Fun fact: I debug faster with 🎶 music  
+### 🧑‍💻 Who am I?  
+- 🚀 A frontend dev from **Morocco** trying to make the web less boring (and failing sometimes).  
+- 🔭 Currently building **[FLIXMIX](https://flixmix.vercel.app)**
+- 🛠 I use **React / Next.js / Tailwind / TypeScript** like a chef uses salt — maybe too much.  
+- 🎶 Code runs faster when I blast music (scientifically unproven, but I believe it).  
 
 ---
 
-### 🌐 Connect with me  
+### 🌐 Stalk Me Here  
 <p align="center">
   <a href="https://instagram.com/kyzo.py" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  
+
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ My Toolbox  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,nodejs,tailwind,git,github,figma,firebase,postman,python,selenium,puppeteer,heroku,azure" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,figma,firebase,postman,python,selenium,puppeteer,heroku" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 My Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KYZO100&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYZO100&layout=compact&theme=radical" alt="top langs" />
@@ -48,4 +48,12 @@
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
+### ⚡ Random Facts  
+- I believe **dark mode** isn’t an option — it’s a must.  
+- My commits are 50% “Fix bug”, 30% “Fix previous fix”, 20% “added something cool”.  
+- Sometimes I open VS Code just to stare at it and close it again.  
+- If code compiles on first try → I’m 90% sure I forgot something.  
+
+---
+
+✨ _“If at first you don’t succeed, push to GitHub and let future you deal with it.”_
