@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on [FLIXMIX](  flixmix.vercel.app  )
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+INSTAGRAM : kyzo.py</h3>
 <p align="left">
 </p>
 
