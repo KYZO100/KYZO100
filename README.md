@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, I'm KYZO</h1>
+<h1 align="center">Hi 👋, I'm KYZO</h1>
 <h3 align="center">Web Developer • Coffee Addict • Professional Bug Creator</h3>
 
 ---
