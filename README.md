@@ -12,7 +12,7 @@
 ---
 
 ### 🧑‍💻 Who am I?  
-- 🚀 A frontend dev from **Morocco** trying to make the web less boring (and failing sometimes).  
+- 🚀 A Web dev from **Morocco** trying to make the web less boring.  
 - 🔭 Currently building **[FLIXMIX](https://flixmix.vercel.app)**
 - 🛠 I use **React / Next.js / Tailwind / TypeScript** like a chef uses salt — maybe too much.  
 - 🎶 Code runs faster when I blast music (scientifically unproven, but I believe it).  
